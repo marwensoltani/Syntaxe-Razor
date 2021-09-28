@@ -1,0 +1,40 @@
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\bin\Debug\net5.0\appsettings.json
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\bin\Debug\net5.0\Syntaxe Razor.exe
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\bin\Debug\net5.0\Syntaxe Razor.deps.json
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\bin\Debug\net5.0\Syntaxe Razor.runtimeconfig.json
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\bin\Debug\net5.0\Syntaxe Razor.runtimeconfig.dev.json
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\bin\Debug\net5.0\Syntaxe Razor.dll
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\bin\Debug\net5.0\ref\Syntaxe Razor.dll
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\bin\Debug\net5.0\Syntaxe Razor.pdb
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\bin\Debug\net5.0\Syntaxe Razor.Views.dll
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\bin\Debug\net5.0\Syntaxe Razor.Views.pdb
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Syntaxe Razor.csprojAssemblyReference.cache
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Syntaxe Razor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Syntaxe Razor.AssemblyInfoInputs.cache
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Syntaxe Razor.AssemblyInfo.cs
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Syntaxe Razor.csproj.CoreCompileInputs.cache
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Syntaxe Razor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Syntaxe Razor.RazorAssemblyInfo.cache
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Syntaxe Razor.RazorAssemblyInfo.cs
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\staticwebassets\Syntaxe Razor.StaticWebAssets.Manifest.cache
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\staticwebassets\Syntaxe Razor.StaticWebAssets.xml
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\scopedcss\bundle\Syntaxe Razor.styles.css
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Syntaxe Razor.TagHelpers.input.cache
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Syntaxe Razor.TagHelpers.output.cache
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Syntaxe Razor.RazorCoreGenerate.cache
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Syntaxe Razor.RazorTargetAssemblyInfo.cache
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Syntaxe Razor.RazorTargetAssemblyInfo.cs
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Syntaxe Razor.Views.pdb
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Syntaxe Razor.dll
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\ref\Syntaxe Razor.dll
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Syntaxe Razor.pdb
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Syntaxe Razor.genruntimeconfig.cache
+C:\Users\karou\source\repos\Syntaxe Razor\Syntaxe Razor\obj\Debug\net5.0\Syntaxe Razor.csproj.CopyComplete

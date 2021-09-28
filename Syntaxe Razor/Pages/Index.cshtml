@@ -1,0 +1,116 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Syntaxe Razor</h1>
+    <p>@DateTime.Now</p>
+    <!-- Fragment Razor-->
+    @{
+        var nom = "BEN TECH PRO TV";
+    }
+    <p>Bienvenue sur la chaîne YouTube: @nom</p>
+    @{
+        nom = "Karim Ben Romdhane";
+    }
+    <p>Bonjour @nom</p>
+    <!-- Fragment Razor : Calcul Arithmétique -->
+    @{
+        var x = 6;
+        var y = 4;
+        var somme = x + y;
+        <h2>la somme de x + y = @(x + y)</h2>
+        <h2>la somme de x + y = @somme</h2>
+    }
+</div>
+<div class="text-center">
+    <!-- Fragment Razor : IF-->
+    @{ 
+        var site = "Youtube";
+        var chaine = "BEND TECH PRO TV";
+        if (site == "Youtube" && chaine == "BEN TECH PRO TV")
+        {
+            <h2> Vous êtes sur la chaîne d'enseignement universitaire à distance.</h2>
+        }
+        else
+        {
+            <h2>Cherchez la chaîne "BEN TECH PRO TV" sur Youtube.</h2>
+        }
+    }
+</div>
+<div class="text-center">
+    <!-- Fragment Razor: foreach -->
+    @{ 
+        string[] villes = { "Bizerte", "Ras Jebel", "Sousse", "Tunis" };
+        foreach (var ville in villes)
+        {
+            <h3>@ville</h3>
+        }
+    }
+</div>
+<div class="text-center">
+    <table border="1">
+        <tr>
+            <!-- fragment Razor boucle for-->
+            <td>
+                @{
+                    //boucle for
+                    <H2>boucle for</H2>
+                    for (int i = 0; i < villes.Length; i++)
+                    {
+                        @villes[i]; <br />
+                    }
+                }
+            </td>
+            <td>
+                @{
+                    //boucle do while
+                    <H2>boucle do while</H2>
+                    var compteur = 0;
+                    do
+                    {
+                        @villes[compteur]; <br />
+                        compteur++;
+                    } while (compteur < villes.Length);
+                }
+            </td>
+            <td>
+                @{
+                    //boucle  while
+                    <H2>boucle while</H2>
+                    var cw = 0;
+                    while(cw < villes.Length)
+                    {
+                        @villes[cw]; <br />
+                        cw++;
+                    } 
+                }
+            </td>
+        </tr>
+
+    </table>
+</div>
+<div class="text-center">
+    <!-- Fragment Razor: le fonctions-->
+    @functions{ 
+        DateTime Aujourdhui()
+        {
+            return DateTime.Now;
+        }
+        int multiplier(int x, int y)
+        {
+            return x * y;
+        }
+        String MaChaine()
+        {
+            return "BEN TECH PRO TV";
+        }
+    }
+
+
+    <h2> Aujourd'hui est le @Aujourdhui()</h2>
+    <h2> (7 x 4) = @multiplier(7,4)</h2>
+    <h2>Ma chaîne YouTube est @MaChaine()</h2>
+</div>
